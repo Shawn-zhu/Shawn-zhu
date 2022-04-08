@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shawn-zhu
+- 👋 Hi, I’m Shawn
 - 👀 I’m interested in machine learning, wireless teleconmunication tecnology, nevigation system, control system and architecture capture.
 - 🌱 I’m currently forcing on ML on mobile chip.
 - 📫 reach me by sending email to zhushihaoshu@outlook.com
